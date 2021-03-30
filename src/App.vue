@@ -96,6 +96,6 @@
     background-image: url("./assets/background.jpg");
     background-position: center;
     background-size: cover;
-    min-height: 150px;
+    min-height: 149px;
 }
 </style>
